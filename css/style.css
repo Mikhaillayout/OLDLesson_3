@@ -1,0 +1,55 @@
+a{
+	color: coral;
+}
+h1{
+	color: deepskyblue; 
+}
+h2, h3{
+	color: dodgerblue;
+}
+/* ========================= */
+.introductory-text{
+	color: grey;
+}
+.text{
+	color: grey;
+}
+/* ========================= */
+
+#chapter-1{
+	color: violet;
+}
+#chapter-8{
+	color: hotpink;
+}
+/* ========================= */
+
+.h-1{
+	color: deepskyblue;
+}
+span{
+	color:blue;
+}
+/* ========================= */
+
+a.spacial{
+	color: chocolate;
+}
+/* ========================= */
+.text.steps{
+	color: rgb(180, 183, 187);
+}
+/* ========================= */
+
+ul li{
+	color: mediumslateblue;
+}
+.block .mini-block{
+	color: red;
+}
+/* ========================= */
+
+.block > p{
+	color: mediumvioletred;
+}
+/* ========================= */
